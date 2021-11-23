@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joshmogil
-- 👀 I’m interested in Automation, Machine Learning, Computational Creativity
-- 🌱 I’m currently learning 
+- 👀 I’m interested in Automation, Serverless, cool looking css
+- 🌱 I’m currently learning AWS, Go
 - 💞️ I’m looking to collaborate
 - 📫 jmogil198@gmail.com
 
