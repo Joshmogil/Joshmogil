@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Joshmogil
-- 👀 I’m interested in Automation, Serverless, cool looking websites
-- 🌱 I’m currently learning AWS, Go
-- 💞️ I’m looking to collaborate
+- Python cloud dude.
 - 📫 jmogil198@gmail.com
 
 <!---
