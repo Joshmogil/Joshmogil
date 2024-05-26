@@ -1,5 +1,5 @@
 - Having fun!
-- 📫 jmogil198@gmail.com
+- 📫 jogilcode@gmail.com
 
 <!---
 Joshmogil/Joshmogil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
